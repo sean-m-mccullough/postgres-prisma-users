@@ -1,1 +1,1 @@
-Simple exploratory exerise for myself.
+Simple exploratory exercise for myself.
